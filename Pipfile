@@ -15,6 +15,7 @@ bootstrap-flask = "*"
 flask-bootstrap = "*"
 flask-login = "*"
 flask-sqlalchemy = "*"
+flask-wtf = "*"
 
 [requires]
 python_version = "3.6"
