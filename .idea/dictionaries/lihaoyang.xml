@@ -1,6 +1,8 @@
 <component name="ProjectDictionaryState">
   <dictionary name="lihaoyang">
     <words>
+      <w>allovertime</w>
+      <w>allrest</w>
       <w>applydate</w>
       <w>checkin</w>
       <w>checkintype</w>
@@ -8,9 +10,17 @@
       <w>dropdown</w>
       <w>earlymeet</w>
       <w>endblock</w>
+      <w>endday</w>
       <w>endfor</w>
+      <w>endmouth</w>
+      <w>endstr</w>
+      <w>endyear</w>
       <w>lstrip</w>
       <w>navbar</w>
+      <w>startday</w>
+      <w>startmouth</w>
+      <w>startstr</w>
+      <w>startyear</w>
       <w>tablename</w>
       <w>thirtiseven</w>
       <w>tripmode</w>
