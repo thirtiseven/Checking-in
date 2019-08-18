@@ -9,7 +9,7 @@ faker = "*"
 [packages]
 flask-moment = "*"
 faker = "*"
-flask-debugtoolbar = "*"
+flask-debugtoolbar = "*"pip
 wtforms = "*"
 bootstrap-flask = "*"
 flask-bootstrap = "*"
